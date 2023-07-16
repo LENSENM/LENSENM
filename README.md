@@ -35,9 +35,5 @@ Here are some ideas to get you started:
 
 ![](https://activity-graph.herokuapp.com/graph?username=LENSENM&theme=github)
 
-<div align="center">
-    <a href="https://github.com/LEMSENM">
-        <img align="left" src="https://github.com/LENSENM/mock_redux_source_code?username=LEMSENM&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs" alt="Rongding's github stats"/>
-    </a>
-</div>
+
    
