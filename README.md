@@ -38,12 +38,10 @@ Here are some ideas to get you started:
 
 ##### GitHub Stats
 
-![](https://activity-graph.herokuapp.com/graph?username=zhaocaimin&theme=github)
+![](https://activity-graph.herokuapp.com/graph?username=LENSENM&theme=github)
 
 <div align="center">
-    <a href="https://github.com/zhaocaimin">
+    <a href="https://github.com/LENSENM/">
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=zhaocaimin&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs" alt="Rongding's github stats"/>
     </a>
-    <a href="https://github.com/zhaocaimin">
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaocaimin&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230" alt="Rongding's github stats"/>
-    </a>
+   
