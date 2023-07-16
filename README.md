@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **LENSENM/LENSENM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,12 +16,12 @@ Here are some ideas to get you started:
 
 <h3>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
-  Hi there! I'm Zhao caimin~ 
+  Hi there! I'm LENSENM~ 
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
 </h3>
-<a href="https://github.com/zhaocaimin">
+<a href="https://github.com/LENSENM">
     <div align="right" >
-        <img align="right" src="https://count.getloli.com/get/@:zhaocaimin" alt="赵才敏" />
+        <img align="right" src="https://count.getloli.com/get/@:LENSENM" />
     </div>
 </a>
 
@@ -38,6 +37,6 @@ Here are some ideas to get you started:
 
 <div align="center">
     <a href="https://github.com/LENSENM/">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=zhaocaimin&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs" alt="Rongding's github stats"/>
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=LENSENM&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs" alt="Rongding's github stats"/>
     </a>
    
