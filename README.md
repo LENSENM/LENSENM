@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <div align="center">
     <a href="https://github.com/LEMSENM">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=LEMSENM&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs" alt="Rongding's github stats"/>
+        <img align="left" src="https://github.com/LENSENM/mock_redux_source_code?username=LEMSENM&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs" alt="Rongding's github stats"/>
     </a>
 </div>
    
