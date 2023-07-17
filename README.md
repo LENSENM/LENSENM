@@ -17,8 +17,8 @@
 <h3>个人项目</h3>
 
 [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=LENSENM&repo=Arc&show_owner=true)](https://github.com/LENSENM/mock_redux_source_code)
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=LENSENM&repo=Arc&show_owner=true)](https://github.com/LENSENM/https://github.com/LENSENM/redux-encapsulation_hook)
 [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=LENSENM&repo=Arc&show_owner=true)](https://github.com/LENSENM/vue_binding_source_codesource)
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=LENSENM&repo=Arc&show_owner=true)](https://github.com/LENSENM/mock_redux_source_code)
 
 
 
