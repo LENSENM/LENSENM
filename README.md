@@ -17,7 +17,7 @@
 
 - [mock_redux_source_code](https://github.com/LENSENM/mock_redux_source_code) redux实现源码
 - [redux-encapsulation_hook](https://github.com/LENSENM/https://github.com/LENSENM/redux-encapsulation_hook) 对redux的封装，只需要关注新加入的方法  
-- [vue_binding_source_codesource](https://github.com/LENSENM/vue_binding_source_codesource) vue 双向绑定实现源码
+- [vue_binding_source_codesource](https://github.com/LENSENM/vue_binding_source_codesource) vue双向绑定的实现
 
 
 
