@@ -27,6 +27,13 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LENSENM&theme=blueberry )](https://github.com/LENSENM/github-readme-stats)
+
+<h3>个人项目</h3>
+
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=LENSENM&repo=Arc&show_owner=true)](https://github.com/LENSENM/mock_redux_source_code)
+
+
+
 </div>
 
 
