@@ -3,7 +3,7 @@
 
 <div>
   <h3>
-    Hi，我是LEMSENM , 我是一名前端开发工程师
+    你好，我是LEMSENM , 我是一名前端开发工程师
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
 </h3>
 
