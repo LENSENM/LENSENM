@@ -14,7 +14,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LENSENM&theme=blueberry&langs_count=8&layout=donut)](https://github.com/LENSENM/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LENSENM&theme=blueberry)](https://github.com/LENSENM/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LENSENM&theme=blueberry)]
 
 <h3>源码实现</h3>
 
