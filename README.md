@@ -14,12 +14,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LENSENM&theme=blueberry )](https://github.com/LENSENM/github-readme-stats)
 
-<h3>个人项目</h3>
+<h3>源码实现</h3>
 
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=LENSENM&repo=Arc&show_owner=true)](https://github.com/LENSENM/mock_redux_source_code)
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=LENSENM&repo=Arc&show_owner=true)](https://github.com/LENSENM/https://github.com/LENSENM/redux-encapsulation_hook)
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=LENSENM&repo=Arc&show_owner=true)](https://github.com/LENSENM/vue_binding_source_codesource)
-
+- [mock_redux_source_code](https://github.com/LENSENM/mock_redux_source_code) redux实现源码
+- [redux-encapsulation_hook](https://github.com/LENSENM/https://github.com/LENSENM/redux-encapsulation_hook) 对redux的封装，只需要关注新加入的方法  
+- [vue_binding_source_codesource](https://github.com/LENSENM/vue_binding_source_codesource) vue 双向绑定实现源码
 
 
 
