@@ -1,19 +1,5 @@
-<!--
-**LENSENM/LENSENM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div align="center">
+<div>
   <h3>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
   Hi there! I'm LENSENM~ 
@@ -31,6 +17,9 @@ Here are some ideas to get you started:
 <h3>个人项目</h3>
 
 [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=LENSENM&repo=Arc&show_owner=true)](https://github.com/LENSENM/mock_redux_source_code)
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=LENSENM&repo=Arc&show_owner=true)](https://github.com/LENSENM/vue_binding_source_codesource)
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=LENSENM&repo=Arc&show_owner=true)](https://github.com/LENSENM/mock_redux_source_code)
+
 
 
 
