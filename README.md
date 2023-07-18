@@ -19,6 +19,26 @@
 - [redux-encapsulation_hook](https://github.com/LENSENM/https://github.com/LENSENM/redux-encapsulation_hook) 对redux的封装，只需要关注新加入的方法  
 - [vue_binding_source_codesource](https://github.com/LENSENM/vue_binding_source_codesource) vue双向绑定的实现
 
+ <a href="https://github.com/LENSENM/mock_redux_source_code">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LENSENM&repo=mock_redux_source_code" />
+</a>
+<a href="https://github.com/LENSENM/redux-encapsulation_hook">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LENSENM&repo=redux-encapsulation_hook" />
+</a>
+<a href="https://github.com/LENSENM/vue_binding_source_codesource">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LENSENM&repo=vue_binding_source_codesource" />
+</a>
+
+ <a href="https://github.com/LENSENM/mock_redux_source_code">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LENSENM&repo=mock_redux_source_code" />
+</a>
+<a href="https://github.com/LENSENM/redux-encapsulation_hook">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LENSENM&repo=redux-encapsulation_hook" />
+</a>
+<a href="https://github.com/LENSENM/vue_binding_source_codesource">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LENSENM&repo=vue_binding_source_codesource" />
+</a>
+
  -->
 
 <a>
@@ -28,19 +48,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LENSENM&theme=blueberry&show_icons=true" />
 </a>
 
-
- <a href="https://github.com/LENSENM/mock_redux_source_code">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=mock_redux_source_code" />
-</a>
-<a href="https://github.com/LENSENM/redux-encapsulation_hook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LENSENM&repo=redux-encapsulation_hook" />
-</a>
-<a href="https://github.com/LENSENM/vue_binding_source_codesource">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LENSENM&repo=vue_binding_source_codesource" />
-</a>
-
-
-
+<h3>访客</h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/LENSENM/count.svg)
 
